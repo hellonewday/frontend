@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/frontend/static/css/main.98d65c9f.chunk.css",
+    "main.js": "/frontend/static/js/main.0b4842c8.chunk.js",
+    "main.js.map": "/frontend/static/js/main.0b4842c8.chunk.js.map",
+    "runtime~main.js": "/frontend/static/js/runtime~main.f332d61a.js",
+    "runtime~main.js.map": "/frontend/static/js/runtime~main.f332d61a.js.map",
+    "static/js/2.569e4c42.chunk.js": "/frontend/static/js/2.569e4c42.chunk.js",
+    "static/js/2.569e4c42.chunk.js.map": "/frontend/static/js/2.569e4c42.chunk.js.map",
+    "index.html": "/frontend/index.html",
+    "precache-manifest.a86e517ae3122bfc0cdd7bd262bc8bd6.js": "/frontend/precache-manifest.a86e517ae3122bfc0cdd7bd262bc8bd6.js",
+    "service-worker.js": "/frontend/service-worker.js",
+    "static/css/main.98d65c9f.chunk.css.map": "/frontend/static/css/main.98d65c9f.chunk.css.map",
+    "static/media/style.css": "/frontend/static/media/register-background.3cd9fab3.jpg",
+    "static/media/home2.jpg": "/frontend/static/media/home2.ef5cc1bc.jpg",
+    "static/media/logo-brand.png": "/frontend/static/media/logo-brand.346b2a45.png"
+  }
+}
